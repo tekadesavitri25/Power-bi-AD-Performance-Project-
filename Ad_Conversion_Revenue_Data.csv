@@ -1,0 +1,21 @@
+Campaign_ID,Conversions,Revenue,Region,Customer_Type
+cmp101,251,10907.78,South,Returning
+cmp102,82,6957.79,South,Returning 
+cmp103,340,10487.99,North,Returning
+cmp104,164,9122.89,North,New
+CMP105,248,5368.79,North, new 
+CMP106,438,2598.31,North,Returning 
+CMP107,220,4208.22,West, new 
+cmp108,111,12876.07,, new 
+CMP109,480,5713.2,South,New
+CMP110,93,13356.76,East, new 
+CMP111,254,15105.39,East, new 
+CMP112,79,5121.85,South,New
+CMP113,475,6235.8,East,Returning
+CMP114,290,19945.13,South, new 
+CMP115,155,6024.33,East, new 
+cmp116,198,15598.37,,New
+cmp117,485,17973.21,East, new 
+cmp118,50,11909.87,South,New
+cmp119,178,11580.25,North,New
+cmp120,369,16824.77,South,New
